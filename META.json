@@ -1,0 +1,61 @@
+{
+  "category": "distributed-storage",
+  "created_date": "2025-09-15T22:48:58.034286",
+  "default_ports": [
+    80,
+    443,
+    9420
+  ],
+  "dependencies": [],
+  "description": "lizardfs is a free and open-source distributed file system. LizardFS provides distributed file system for data centers",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/distributed-storage/lizardfs",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/distributed-storage/lizardfs",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.034305",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "lizardfs",
+  "repository_url": "https://github.com/howtomgr/lizardfs",
+  "spec_version": "2.0",
+  "subcategory": "distributed-storage",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "distributed-storage",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "lizardfs Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/distributed-storage/lizardfs"
+}
